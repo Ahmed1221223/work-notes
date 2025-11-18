@@ -1,3 +1,0 @@
-# Progress
-
-- 2025-11-18 20:06 — Improve loading state copy
