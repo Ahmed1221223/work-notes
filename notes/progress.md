@@ -1,3 +1,0 @@
-# Progress
-
-- 2025-11-26 09:34 — Align card padding
