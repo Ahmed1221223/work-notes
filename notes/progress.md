@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-01-08 13:29 — Polish button labels
