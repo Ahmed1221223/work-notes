@@ -1,3 +1,0 @@
-# Progress
-
-- 2026-01-14 19:28 — Note today's progress
