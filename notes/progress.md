@@ -1,3 +1,0 @@
-# Progress
-
-- 2026-01-27 15:04 — Update settings descriptions
