@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-02-18 13:30 — Clarify form helper text
