@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-02-24 17:16 — Clarify the error text
