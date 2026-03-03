@@ -1,3 +1,0 @@
-# Progress
-
-- 2026-03-03 19:32 — Update project notes
