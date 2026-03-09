@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-03-09 16:28 — Simplify the header wording
