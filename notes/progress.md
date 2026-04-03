@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-04-03 10:11 — Adjust spacing in the layout
