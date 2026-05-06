@@ -1,3 +1,0 @@
-# Progress
-
-- 2026-05-06 16:04 — Clean up unused styles
