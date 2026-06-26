@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-06-26 19:29 — Tighten validation messages
