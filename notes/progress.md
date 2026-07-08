@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-07-08 14:26 — Tidy list empty states
