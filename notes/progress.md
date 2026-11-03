@@ -1,0 +1,3 @@
+# Progress
+
+- 2026-11-03 14:50 — Adjust the mobile spacing
