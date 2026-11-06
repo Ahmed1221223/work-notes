@@ -1,3 +1,0 @@
-# Progress
-
-- 2026-11-06 10:38 — Fix a small layout overlap
