@@ -427,3 +427,4 @@
 - 2026-11-05 18:51 — Fix a small layout overlap
 - 2026-11-06 10:38 — Fix a small layout overlap
 - 2026-11-06 13:20 — Update the status labels
+- 2026-11-11 17:35 — Refine the main screen copy
