@@ -1,0 +1,429 @@
+# Progress
+
+- 2025-10-27 14:24 — Record a follow-up in the notes
+- 2025-10-27 16:48 — Refine the main screen copy
+- 2025-10-27 19:39 — Clarify the error text
+- 2025-10-28 18:49 — Refine the main screen copy
+- 2025-10-30 10:09 — Refine the main screen copy
+- 2025-10-30 11:02 — Update project notes
+- 2025-10-30 15:43 — Improve loading state copy
+- 2025-10-30 18:38 — Refresh the dashboard notes
+- 2025-10-31 10:06 — Clarify the error text
+- 2025-11-03 19:50 — Simplify the header wording
+- 2025-11-05 10:49 — Update the status labels
+- 2025-11-05 12:32 — Refresh the dashboard notes
+- 2025-11-05 14:08 — Align card padding
+- 2025-11-05 16:57 — Improve loading state copy
+- 2025-11-05 18:47 — Clarify form helper text
+- 2025-11-06 11:52 — Update settings descriptions
+- 2025-11-07 19:23 — Simplify the header wording
+- 2025-11-07 20:27 — Clarify the error text
+- 2025-11-12 11:17 — Update settings descriptions
+- 2025-11-12 15:12 — Adjust the mobile spacing
+- 2025-11-12 17:31 — Adjust spacing in the layout
+- 2025-11-13 09:44 — Clarify form helper text
+- 2025-11-13 11:58 — Clarify the error text
+- 2025-11-14 13:08 — Review the latest screen changes
+- 2025-11-14 14:14 — Clarify form helper text
+- 2025-11-17 14:18 — Fix a small layout overlap
+- 2025-11-18 11:24 — Refresh the dashboard notes
+- 2025-11-18 20:06 — Improve loading state copy
+- 2025-11-19 09:46 — Update settings descriptions
+- 2025-11-19 10:43 — Note today's progress
+- 2025-11-19 17:45 — Update project notes
+- 2025-11-19 19:23 — Clarify the error text
+- 2025-11-20 10:58 — Adjust spacing in the layout
+- 2025-11-20 17:50 — Note today's progress
+- 2025-11-24 10:18 — Note today's progress
+- 2025-11-24 14:32 — Polish button labels
+- 2025-11-24 19:48 — Adjust the mobile spacing
+- 2025-11-25 12:11 — Clean up unused styles
+- 2025-11-25 13:44 — Tidy list empty states
+- 2025-11-25 14:39 — Improve loading state copy
+- 2025-11-25 17:53 — Refresh the dashboard notes
+- 2025-11-25 20:00 — Update project notes
+- 2025-11-26 09:34 — Align card padding
+- 2025-11-26 19:22 — Update project notes
+- 2025-11-27 11:19 — Adjust spacing in the layout
+- 2025-11-28 14:03 — Refine the main screen copy
+- 2025-11-28 20:22 — Fix a small layout overlap
+- 2025-12-01 12:10 — Clarify form helper text
+- 2025-12-01 13:20 — Update the status labels
+- 2025-12-01 21:24 — Polish button labels
+- 2025-12-06 11:43 — Refine the main screen copy
+- 2025-12-08 09:45 — Adjust the mobile spacing
+- 2025-12-11 12:17 — Review the latest screen changes
+- 2025-12-11 15:12 — Clarify form helper text
+- 2025-12-11 17:28 — Polish button labels
+- 2025-12-18 20:28 — Refine the main screen copy
+- 2025-12-22 11:57 — Align card padding
+- 2025-12-22 13:21 — Note today's progress
+- 2025-12-22 21:09 — Simplify the header wording
+- 2025-12-24 11:21 — Update the status labels
+- 2025-12-24 15:48 — Improve loading state copy
+- 2025-12-24 17:27 — Note today's progress
+- 2026-01-01 14:16 — Note today's progress
+- 2026-01-01 15:51 — Update settings descriptions
+- 2026-01-01 19:31 — Tidy list empty states
+- 2026-01-05 11:39 — Tighten validation messages
+- 2026-01-06 09:55 — Adjust spacing in the layout
+- 2026-01-06 21:59 — Clarify the error text
+- 2026-01-07 09:46 — Update settings descriptions
+- 2026-01-07 11:06 — Improve loading state copy
+- 2026-01-07 14:57 — Adjust the mobile spacing
+- 2026-01-08 13:29 — Polish button labels
+- 2026-01-08 14:24 — Refresh the dashboard notes
+- 2026-01-08 15:33 — Clarify form helper text
+- 2026-01-08 19:44 — Update the status labels
+- 2026-01-08 20:46 — Refine the main screen copy
+- 2026-01-09 14:14 — Tidy list empty states
+- 2026-01-09 18:00 — Clarify the error text
+- 2026-01-12 17:55 — Clarify the error text
+- 2026-01-14 11:41 — Update settings descriptions
+- 2026-01-14 19:28 — Note today's progress
+- 2026-01-19 09:54 — Clarify the error text
+- 2026-01-19 12:47 — Polish button labels
+- 2026-01-20 11:22 — Update project notes
+- 2026-01-20 15:40 — Record a follow-up in the notes
+- 2026-01-21 12:53 — Refine the main screen copy
+- 2026-01-21 14:11 — Tighten validation messages
+- 2026-01-22 14:19 — Update settings descriptions
+- 2026-01-22 19:53 — Update the status labels
+- 2026-01-27 15:04 — Update settings descriptions
+- 2026-01-27 17:54 — Polish button labels
+- 2026-01-29 09:25 — Update settings descriptions
+- 2026-01-29 14:00 — Adjust spacing in the layout
+- 2026-02-02 09:23 — Fix a small layout overlap
+- 2026-02-02 12:03 — Adjust spacing in the layout
+- 2026-02-02 13:45 — Refine the main screen copy
+- 2026-02-03 10:15 — Simplify the header wording
+- 2026-02-03 12:18 — Update project notes
+- 2026-02-03 15:09 — Refresh the dashboard notes
+- 2026-02-03 16:07 — Clean up unused styles
+- 2026-02-03 18:44 — Note today's progress
+- 2026-02-03 19:45 — Tighten validation messages
+- 2026-02-06 09:32 — Align card padding
+- 2026-02-08 17:19 — Adjust spacing in the layout
+- 2026-02-09 11:25 — Review the latest screen changes
+- 2026-02-09 14:31 — Update settings descriptions
+- 2026-02-09 16:26 — Clarify the error text
+- 2026-02-10 09:57 — Fix a small layout overlap
+- 2026-02-10 14:46 — Tidy list empty states
+- 2026-02-10 18:29 — Review the latest screen changes
+- 2026-02-10 21:19 — Note today's progress
+- 2026-02-11 10:48 — Update project notes
+- 2026-02-11 12:16 — Fix a small layout overlap
+- 2026-02-11 14:02 — Clarify the error text
+- 2026-02-11 16:06 — Record a follow-up in the notes
+- 2026-02-11 17:38 — Clean up unused styles
+- 2026-02-13 19:14 — Adjust the mobile spacing
+- 2026-02-15 10:44 — Fix a small layout overlap
+- 2026-02-17 10:08 — Tidy list empty states
+- 2026-02-17 12:33 — Adjust the mobile spacing
+- 2026-02-18 10:56 — Adjust the mobile spacing
+- 2026-02-18 13:30 — Clarify form helper text
+- 2026-02-19 14:06 — Clean up unused styles
+- 2026-02-19 20:21 — Fix a small layout overlap
+- 2026-02-23 09:38 — Tidy list empty states
+- 2026-02-24 12:37 — Adjust spacing in the layout
+- 2026-02-24 17:16 — Clarify the error text
+- 2026-02-25 09:47 — Note today's progress
+- 2026-02-25 10:44 — Fix a small layout overlap
+- 2026-02-25 13:03 — Update settings descriptions
+- 2026-02-25 14:20 — Clean up unused styles
+- 2026-02-26 14:41 — Refine the main screen copy
+- 2026-02-26 17:58 — Tidy list empty states
+- 2026-02-27 18:47 — Tidy list empty states
+- 2026-03-02 16:13 — Tidy list empty states
+- 2026-03-03 11:00 — Refresh the dashboard notes
+- 2026-03-03 19:32 — Update project notes
+- 2026-03-05 16:01 — Fix a small layout overlap
+- 2026-03-06 12:11 — Record a follow-up in the notes
+- 2026-03-06 18:00 — Refine the main screen copy
+- 2026-03-09 12:08 — Record a follow-up in the notes
+- 2026-03-09 14:05 — Polish button labels
+- 2026-03-09 16:28 — Simplify the header wording
+- 2026-03-10 09:44 — Fix a small layout overlap
+- 2026-03-10 12:03 — Refresh the dashboard notes
+- 2026-03-10 16:50 — Adjust the mobile spacing
+- 2026-03-11 10:10 — Align card padding
+- 2026-03-11 17:13 — Improve loading state copy
+- 2026-03-12 09:29 — Record a follow-up in the notes
+- 2026-03-12 14:45 — Update the status labels
+- 2026-03-13 15:51 — Clean up unused styles
+- 2026-03-13 17:17 — Adjust spacing in the layout
+- 2026-03-16 14:12 — Adjust spacing in the layout
+- 2026-03-16 15:16 — Clarify form helper text
+- 2026-03-18 16:31 — Clarify the error text
+- 2026-03-24 15:09 — Refine the main screen copy
+- 2026-03-24 17:03 — Tidy list empty states
+- 2026-03-25 11:11 — Update settings descriptions
+- 2026-03-26 19:04 — Update the status labels
+- 2026-03-27 16:40 — Clarify form helper text
+- 2026-03-30 14:06 — Record a follow-up in the notes
+- 2026-03-30 17:49 — Update the status labels
+- 2026-03-31 13:59 — Refine the main screen copy
+- 2026-03-31 16:02 — Align card padding
+- 2026-04-01 10:29 — Update project notes
+- 2026-04-01 18:43 — Fix a small layout overlap
+- 2026-04-02 13:52 — Update project notes
+- 2026-04-03 10:11 — Adjust spacing in the layout
+- 2026-04-03 12:32 — Review the latest screen changes
+- 2026-04-06 10:56 — Refine the main screen copy
+- 2026-04-06 16:01 — Update project notes
+- 2026-04-07 09:34 — Fix a small layout overlap
+- 2026-04-07 11:52 — Refine the main screen copy
+- 2026-04-07 19:55 — Adjust the mobile spacing
+- 2026-04-08 09:55 — Refine the main screen copy
+- 2026-04-08 16:32 — Adjust the mobile spacing
+- 2026-04-08 17:39 — Clarify the error text
+- 2026-04-09 14:18 — Tighten validation messages
+- 2026-04-13 10:09 — Align card padding
+- 2026-04-13 11:23 — Update project notes
+- 2026-04-14 17:02 — Tidy list empty states
+- 2026-04-15 10:40 — Review the latest screen changes
+- 2026-04-15 12:07 — Update settings descriptions
+- 2026-04-15 13:13 — Tidy list empty states
+- 2026-04-15 19:06 — Refine the main screen copy
+- 2026-04-15 20:05 — Improve loading state copy
+- 2026-04-17 13:07 — Adjust the mobile spacing
+- 2026-04-18 16:55 — Polish button labels
+- 2026-04-21 11:36 — Improve loading state copy
+- 2026-04-21 17:30 — Adjust the mobile spacing
+- 2026-04-21 18:38 — Clarify the error text
+- 2026-04-22 09:39 — Adjust the mobile spacing
+- 2026-04-22 11:34 — Adjust spacing in the layout
+- 2026-04-23 11:50 — Note today's progress
+- 2026-04-23 13:22 — Review the latest screen changes
+- 2026-04-24 17:10 — Update settings descriptions
+- 2026-04-28 12:15 — Fix a small layout overlap
+- 2026-04-28 13:15 — Simplify the header wording
+- 2026-04-29 09:39 — Update settings descriptions
+- 2026-04-29 12:09 — Align card padding
+- 2026-04-29 14:34 — Fix a small layout overlap
+- 2026-04-29 15:58 — Simplify the header wording
+- 2026-05-04 16:52 — Improve loading state copy
+- 2026-05-05 10:33 — Clarify the error text
+- 2026-05-05 17:31 — Refresh the dashboard notes
+- 2026-05-06 14:31 — Clarify the error text
+- 2026-05-06 16:04 — Clean up unused styles
+- 2026-05-06 19:38 — Align card padding
+- 2026-05-07 11:41 — Refresh the dashboard notes
+- 2026-05-07 12:48 — Update project notes
+- 2026-05-07 17:42 — Refine the main screen copy
+- 2026-05-11 12:32 — Update project notes
+- 2026-05-11 14:42 — Review the latest screen changes
+- 2026-05-11 19:03 — Update settings descriptions
+- 2026-05-12 17:41 — Update project notes
+- 2026-05-13 17:58 — Fix a small layout overlap
+- 2026-05-14 11:46 — Record a follow-up in the notes
+- 2026-05-14 14:18 — Clarify the error text
+- 2026-05-14 17:16 — Update the status labels
+- 2026-05-15 10:25 — Update settings descriptions
+- 2026-05-15 18:01 — Align card padding
+- 2026-05-18 10:00 — Tidy list empty states
+- 2026-05-18 11:45 — Review the latest screen changes
+- 2026-05-18 17:43 — Polish button labels
+- 2026-05-19 11:58 — Record a follow-up in the notes
+- 2026-05-19 14:14 — Update settings descriptions
+- 2026-05-19 18:22 — Clarify the error text
+- 2026-05-21 15:44 — Adjust the mobile spacing
+- 2026-05-21 18:35 — Tighten validation messages
+- 2026-05-22 11:52 — Refresh the dashboard notes
+- 2026-05-22 19:10 — Tighten validation messages
+- 2026-05-25 16:58 — Polish button labels
+- 2026-06-02 11:47 — Review the latest screen changes
+- 2026-06-02 16:22 — Refine the main screen copy
+- 2026-06-03 10:28 — Align card padding
+- 2026-06-03 14:29 — Improve loading state copy
+- 2026-06-03 15:46 — Tidy list empty states
+- 2026-06-03 17:52 — Update project notes
+- 2026-06-04 10:56 — Note today's progress
+- 2026-06-04 17:18 — Polish button labels
+- 2026-06-04 18:14 — Record a follow-up in the notes
+- 2026-06-05 12:31 — Fix a small layout overlap
+- 2026-06-06 18:11 — Polish button labels
+- 2026-06-08 10:56 — Clarify the error text
+- 2026-06-08 13:08 — Simplify the header wording
+- 2026-06-08 18:46 — Clean up unused styles
+- 2026-06-09 09:25 — Simplify the header wording
+- 2026-06-09 14:28 — Tidy list empty states
+- 2026-06-11 10:50 — Polish button labels
+- 2026-06-11 12:08 — Tidy list empty states
+- 2026-06-11 16:47 — Fix a small layout overlap
+- 2026-06-12 09:57 — Update the status labels
+- 2026-06-25 17:23 — Review the latest screen changes
+- 2026-06-26 10:24 — Tidy list empty states
+- 2026-06-26 19:29 — Tighten validation messages
+- 2026-06-29 11:14 — Update the status labels
+- 2026-06-29 18:29 — Refresh the dashboard notes
+- 2026-06-30 11:12 — Note today's progress
+- 2026-06-30 12:31 — Tidy list empty states
+- 2026-06-30 14:16 — Tighten validation messages
+- 2026-07-01 09:39 — Fix a small layout overlap
+- 2026-07-01 11:51 — Clarify form helper text
+- 2026-07-03 09:48 — Review the latest screen changes
+- 2026-07-03 11:00 — Tighten validation messages
+- 2026-07-08 10:58 — Update settings descriptions
+- 2026-07-08 14:26 — Tidy list empty states
+- 2026-07-08 17:35 — Tighten validation messages
+- 2026-07-10 15:29 — Note today's progress
+- 2026-07-13 11:56 — Note today's progress
+- 2026-07-13 16:00 — Review the latest screen changes
+- 2026-07-15 11:02 — Clarify the error text
+- 2026-07-15 12:52 — Tighten validation messages
+- 2026-07-20 11:49 — Review the latest screen changes
+- 2026-07-20 14:36 — Update project notes
+- 2026-07-20 17:02 — Note today's progress
+- 2026-07-21 15:05 — Simplify the header wording
+- 2026-07-21 17:30 — Adjust the mobile spacing
+- 2026-07-22 09:52 — Simplify the header wording
+- 2026-07-22 13:43 — Adjust the mobile spacing
+- 2026-07-22 16:55 — Refine the main screen copy
+- 2026-07-23 11:14 — Align card padding
+- 2026-07-23 16:20 — Fix a small layout overlap
+- 2026-07-23 20:00 — Tighten validation messages
+- 2026-07-26 18:53 — Update the status labels
+- 2026-07-27 10:12 — Tighten validation messages
+- 2026-07-28 09:43 — Update the status labels
+- 2026-07-29 09:55 — Align card padding
+- 2026-07-29 14:16 — Review the latest screen changes
+- 2026-07-29 19:14 — Improve loading state copy
+- 2026-07-29 21:01 — Polish button labels
+- 2026-07-30 09:27 — Record a follow-up in the notes
+- 2026-07-30 11:46 — Note today's progress
+- 2026-07-30 15:50 — Review the latest screen changes
+- 2026-07-31 16:34 — Review the latest screen changes
+- 2026-07-31 20:16 — Polish button labels
+- 2026-08-03 15:06 — Update the status labels
+- 2026-08-03 18:27 — Improve loading state copy
+- 2026-08-03 21:43 — Record a follow-up in the notes
+- 2026-08-06 19:40 — Clarify the error text
+- 2026-08-07 09:52 — Fix a small layout overlap
+- 2026-08-07 17:51 — Polish button labels
+- 2026-08-11 18:46 — Update project notes
+- 2026-08-12 11:07 — Record a follow-up in the notes
+- 2026-08-12 14:28 — Align card padding
+- 2026-08-12 16:59 — Review the latest screen changes
+- 2026-08-12 17:53 — Adjust the mobile spacing
+- 2026-08-18 11:16 — Record a follow-up in the notes
+- 2026-08-18 16:14 — Refine the main screen copy
+- 2026-08-19 14:24 — Tidy list empty states
+- 2026-08-20 09:27 — Adjust spacing in the layout
+- 2026-08-20 10:28 — Improve loading state copy
+- 2026-08-20 12:13 — Update project notes
+- 2026-08-20 16:10 — Adjust the mobile spacing
+- 2026-08-21 11:14 — Align card padding
+- 2026-08-26 13:18 — Update settings descriptions
+- 2026-08-26 17:46 — Record a follow-up in the notes
+- 2026-08-26 18:42 — Clarify the error text
+- 2026-08-31 20:05 — Update the status labels
+- 2026-09-01 13:54 — Update settings descriptions
+- 2026-09-01 18:36 — Refresh the dashboard notes
+- 2026-09-02 11:09 — Improve loading state copy
+- 2026-09-02 12:10 — Note today's progress
+- 2026-09-02 16:38 — Align card padding
+- 2026-09-02 18:23 — Clarify the error text
+- 2026-09-03 12:24 — Tidy list empty states
+- 2026-09-07 09:43 — Adjust the mobile spacing
+- 2026-09-07 12:04 — Note today's progress
+- 2026-09-08 10:35 — Improve loading state copy
+- 2026-09-08 11:38 — Polish button labels
+- 2026-09-08 16:33 — Adjust the mobile spacing
+- 2026-09-09 12:09 — Align card padding
+- 2026-09-09 13:42 — Adjust spacing in the layout
+- 2026-09-10 10:44 — Update project notes
+- 2026-09-10 11:49 — Align card padding
+- 2026-09-10 12:43 — Clarify form helper text
+- 2026-09-10 14:17 — Polish button labels
+- 2026-09-10 17:52 — Simplify the header wording
+- 2026-09-10 18:48 — Record a follow-up in the notes
+- 2026-09-11 09:45 — Update settings descriptions
+- 2026-09-11 12:51 — Update project notes
+- 2026-09-15 14:55 — Adjust the mobile spacing
+- 2026-09-16 19:02 — Record a follow-up in the notes
+- 2026-09-17 11:33 — Record a follow-up in the notes
+- 2026-09-17 18:37 — Fix a small layout overlap
+- 2026-09-21 11:03 — Update the status labels
+- 2026-09-21 12:07 — Simplify the header wording
+- 2026-09-21 16:22 — Update project notes
+- 2026-09-22 14:07 — Improve loading state copy
+- 2026-09-22 16:44 — Adjust spacing in the layout
+- 2026-09-23 09:46 — Tidy list empty states
+- 2026-09-24 09:51 — Note today's progress
+- 2026-09-24 11:42 — Update settings descriptions
+- 2026-09-24 20:18 — Refine the main screen copy
+- 2026-09-25 11:47 — Improve loading state copy
+- 2026-09-25 19:05 — Update the status labels
+- 2026-09-28 11:19 — Update project notes
+- 2026-09-28 14:42 — Improve loading state copy
+- 2026-09-28 16:02 — Fix a small layout overlap
+- 2026-09-30 11:47 — Note today's progress
+- 2026-09-30 13:01 — Update settings descriptions
+- 2026-09-30 15:02 — Simplify the header wording
+- 2026-09-30 16:21 — Adjust the mobile spacing
+- 2026-09-30 17:44 — Tidy list empty states
+- 2026-10-01 09:22 — Refresh the dashboard notes
+- 2026-10-01 15:18 — Polish button labels
+- 2026-10-01 16:55 — Adjust the mobile spacing
+- 2026-10-01 20:15 — Adjust spacing in the layout
+- 2026-10-02 12:06 — Update settings descriptions
+- 2026-10-05 11:18 — Tidy list empty states
+- 2026-10-06 09:28 — Improve loading state copy
+- 2026-10-06 10:28 — Adjust spacing in the layout
+- 2026-10-06 11:59 — Update settings descriptions
+- 2026-10-06 14:01 — Clarify the error text
+- 2026-10-06 16:51 — Clarify form helper text
+- 2026-10-06 19:58 — Refresh the dashboard notes
+- 2026-10-07 12:54 — Simplify the header wording
+- 2026-10-07 17:48 — Refine the main screen copy
+- 2026-10-08 11:50 — Fix a small layout overlap
+- 2026-10-08 13:25 — Polish button labels
+- 2026-10-08 15:13 — Refresh the dashboard notes
+- 2026-10-08 16:47 — Improve loading state copy
+- 2026-10-08 17:46 — Tighten validation messages
+- 2026-10-10 18:44 — Tighten validation messages
+- 2026-10-12 13:15 — Polish button labels
+- 2026-10-13 15:09 — Align card padding
+- 2026-10-13 16:57 — Tighten validation messages
+- 2026-10-14 10:39 — Update project notes
+- 2026-10-14 16:30 — Tighten validation messages
+- 2026-10-14 18:37 — Update settings descriptions
+- 2026-10-15 11:20 — Clarify form helper text
+- 2026-10-15 12:38 — Align card padding
+- 2026-10-15 18:14 — Review the latest screen changes
+- 2026-10-19 09:26 — Simplify the header wording
+- 2026-10-20 16:07 — Polish button labels
+- 2026-10-21 10:25 — Review the latest screen changes
+- 2026-10-21 11:17 — Update project notes
+- 2026-10-22 14:29 — Review the latest screen changes
+- 2026-10-22 16:17 — Record a follow-up in the notes
+- 2026-10-22 17:53 — Clarify form helper text
+- 2026-10-23 09:41 — Tighten validation messages
+- 2026-10-23 15:10 — Clean up unused styles
+- 2026-10-26 10:54 — Tighten validation messages
+- 2026-10-26 12:21 — Clarify the error text
+- 2026-10-26 16:49 — Polish button labels
+- 2026-10-27 10:15 — Update the status labels
+- 2026-10-27 12:48 — Refresh the dashboard notes
+- 2026-10-27 14:25 — Clarify form helper text
+- 2026-10-27 16:15 — Tidy list empty states
+- 2026-10-27 19:25 — Clarify the error text
+- 2026-10-28 10:33 — Simplify the header wording
+- 2026-10-28 17:49 — Refresh the dashboard notes
+- 2026-10-28 19:11 — Refine the main screen copy
+- 2026-10-29 09:46 — Simplify the header wording
+- 2026-10-29 13:51 — Adjust the mobile spacing
+- 2026-10-29 17:58 — Update the status labels
+- 2026-10-30 16:43 — Review the latest screen changes
+- 2026-10-30 17:42 — Polish button labels
+- 2026-10-31 10:38 — Update project notes
+- 2026-11-02 09:27 — Note today's progress
+- 2026-11-03 11:28 — Refresh the dashboard notes
+- 2026-11-03 12:40 — Improve loading state copy
+- 2026-11-03 14:50 — Adjust the mobile spacing
+- 2026-11-03 19:53 — Simplify the header wording
+- 2026-11-05 15:02 — Adjust the mobile spacing
+- 2026-11-05 18:51 — Fix a small layout overlap
+- 2026-11-06 10:38 — Fix a small layout overlap
+- 2026-11-06 13:20 — Update the status labels
