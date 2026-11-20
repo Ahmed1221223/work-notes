@@ -432,3 +432,4 @@
 - 2026-11-12 13:07 — Tighten validation messages
 - 2026-11-13 12:58 — Update the status labels
 - 2026-11-17 12:04 — Adjust spacing in the layout
+- 2026-11-20 15:26 — Review the latest screen changes
