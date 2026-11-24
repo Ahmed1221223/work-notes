@@ -435,3 +435,4 @@
 - 2026-11-20 15:26 — Review the latest screen changes
 - 2026-11-23 09:58 — Clarify form helper text
 - 2026-11-24 09:24 — Simplify the header wording
+- 2026-11-24 11:17 — Record a follow-up in the notes
