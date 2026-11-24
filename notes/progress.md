@@ -434,3 +434,4 @@
 - 2026-11-17 12:04 — Adjust spacing in the layout
 - 2026-11-20 15:26 — Review the latest screen changes
 - 2026-11-23 09:58 — Clarify form helper text
+- 2026-11-24 09:24 — Simplify the header wording
