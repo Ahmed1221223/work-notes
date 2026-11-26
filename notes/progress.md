@@ -441,3 +441,4 @@
 - 2026-11-25 10:53 — Record a follow-up in the notes
 - 2026-11-26 09:56 — Update the status labels
 - 2026-11-26 14:56 — Clarify the error text
+- 2026-11-26 16:14 — Update project notes
