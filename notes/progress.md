@@ -440,3 +440,4 @@
 - 2026-11-24 15:01 — Clean up unused styles
 - 2026-11-25 10:53 — Record a follow-up in the notes
 - 2026-11-26 09:56 — Update the status labels
+- 2026-11-26 14:56 — Clarify the error text
